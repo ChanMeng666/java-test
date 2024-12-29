@@ -112,3 +112,7 @@ mvn install
 For more details on setup and configuration, please refer to individual example files.
 
 </details>
+
+## 🙋‍♀ Author
+
+Created and maintained by [Chan Meng](https://github.com/ChanMeng666).
